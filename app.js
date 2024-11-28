@@ -23,4 +23,3 @@ function sortear (){
 function obterNumeorAleatorio(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
-let
